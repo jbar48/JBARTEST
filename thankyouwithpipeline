@@ -1,3 +1,0 @@
-pipeline {
-  print (thank you with pipeline)
-  }
