@@ -1,0 +1,10 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                sh 'print "Test Line 1 with n \n Test Line 2 with n"'
+            }
+        }
+    }
+}
