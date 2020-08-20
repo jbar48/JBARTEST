@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'print "Thank You... update... BRUCE GARVIE BARTRAM THE GREAT!"'
+                sh 'print "Thank You BRUCE GARVIE BARTRAM!"'
             }
         }
     }
